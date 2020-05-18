@@ -1,0 +1,52 @@
+
+html {
+  position: relative;
+}
+body{
+  margin-bottom: 100px;
+}
+/* navbar */
+.navbar{
+  /* opacity: .3; */
+}
+/* navbar */
+
+/* jumbotron */
+.navbar-brand img{
+  height: 100px;
+  margin-bottom:-50px;
+  transform: rotate(270deg);
+  
+}
+.display-4 img{
+  transform: rotate();
+}
+/* akhir jumbotron */
+
+/* table */
+table {
+  border-color: wheat;
+  background-color: black;
+  color: wheat;
+}
+
+table th {
+  background-color: black;
+}
+/* akhir table */
+/* footer */
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height:100px ;
+  background-color:black;
+  padding: 30px;
+}
+
+footer p{
+  color: #aaa;
+  font-size: 1em;
+}
+
